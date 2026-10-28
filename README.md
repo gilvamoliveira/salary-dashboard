@@ -49,4 +49,4 @@ A aplicação consome uma base pública de salários da área de dados publicada
 
 ---
 
-Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
+Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/)
