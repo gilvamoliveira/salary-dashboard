@@ -2,7 +2,7 @@
 
 Dashboard interativo para explorar a evolução dos salários na área de dados: filtros por ano, senioridade, tipo de contrato e tamanho da empresa, com indicadores e gráficos atualizados em tempo real.
 
-**Demo online:** https://dashboard-salario-na-area-de-dados-2025.streamlit.app/
+[Acessar a aplicação](https://dashboard-salario-na-area-de-dados-2025.streamlit.app/)
 
 # Demonstração
 
